@@ -101,11 +101,11 @@ Pizza sales dataset for **January to December 2015**, loaded into Power BI and c
 
 ### Home
 
-![Home Page](pizza-home.png)
+![Home Page](Home.png)
 
 ### Best / Worst Sellers
 
-![Best and Worst Sellers Page](pizza-best-worst.png)
+![Best and Worst Sellers Page](Best%26Wrost%20Sellers.png)
 
 ▶️ **How to open the report**
 
